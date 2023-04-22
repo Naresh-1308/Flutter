@@ -1,0 +1,10 @@
+0 adhirasam
+1 aloo gobhi
+2 aloo matar
+3 aloo methi
+4 aloo shimla mirch
+5 aloo tikki
+6 anarsa
+7 ariselu
+8 bandar laddoo
+9 basundi
